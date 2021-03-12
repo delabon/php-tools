@@ -1,7 +1,7 @@
 <?php
 
 ini_set('max_execution_time', 0); // unlimited execution time
-ini_set('memory_limit','1024M'); // set memory limit to 1024M
+ini_set('memory_limit','2048M'); // set memory limit to 1024M
 
 /**
  * MySql Database Dumper
